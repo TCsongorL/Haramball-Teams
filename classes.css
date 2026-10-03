@@ -1,0 +1,21 @@
+body {
+    background-color:antiquewhite
+}
+
+.bal {text-align:left}
+
+.jobb {text-align:right}
+
+.kozep {text-align:center}
+
+.sorkizart {text-align:justify}
+
+.feher-hatter {background-color:white}
+
+.antiquewhite-hatter {background-color:antiquewhite}
+
+#kep-arsenal  {background-color:antiquewhite;}
+
+#kep-atletico {background-color:antiquewhite;}
+
+ #kep-aston-villa {background-color:antiquewhite;}
