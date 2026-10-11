@@ -6,3 +6,18 @@ td {
     border: 1px solid black;
 text-align: center;
 }
+
+.piros-betu {
+    color: red;
+    font-weight: bold;
+}
+
+.kek-betu {
+    color: blue;
+    font-weight: bold;
+}
+
+.fekete-kiemelt {
+    color: black;
+    font-weight: bold;
+}
