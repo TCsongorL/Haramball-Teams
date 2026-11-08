@@ -38,3 +38,37 @@ text-align: center;
     color: black;
     font-weight: bold;
 }
+
+.jobbra {
+    float: right;
+}
+
+.balra {
+    float: left;
+}
+
+body {
+    padding-top: 15px;
+    text-align: justify;
+}
+
+.kep1 div {
+    float: left;
+}
+
+.kep2 {
+    clear: both;
+}
+
+.kep3 {
+    clear: both;
+}
+
+.kep2 div {
+    float: left;
+}
+
+.kep3 div {
+    float: left;
+}
+
