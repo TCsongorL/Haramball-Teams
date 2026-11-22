@@ -1,14 +1,20 @@
-.bal {text-align:left}
+.balra {
+    text-align: left;
+}
 
-.jobb {text-align:right}
+.jobbra {
+    text-align: right;
+}
 
-.kozep {text-align:center}
+.kozep {
+    text-align: center;
+}   
 
-.sorkizart {text-align:justify}
+.sorkizart {text-align: justify;}
 
-.feher-hatter {background-color:white}
+.feher-hatter {background-color:white;}
 
-.antiquewhite-hatter {background-color:antiquewhite}
+.antiquewhite-hatter {background-color:antiquewhite;}
 
 #fooldal-kep {
     width: 40px;
@@ -39,36 +45,22 @@ text-align: center;
     font-weight: bold;
 }
 
-.jobbra {
+.jobbrafloat {
     float: right;
 }
 
-.balra {
+.balrafloat {
     float: left;
 }
 
 body {
     padding-top: 15px;
+}
+
+p {
     text-align: justify;
 }
 
-.kep1 div {
-    float: left;
-}
-
-.kep2 {
+.clear {
     clear: both;
 }
-
-.kep3 {
-    clear: both;
-}
-
-.kep2 div {
-    float: left;
-}
-
-.kep3 div {
-    float: left;
-}
-
